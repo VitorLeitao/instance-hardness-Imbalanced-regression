@@ -83,3 +83,11 @@ The method assigns a relevance score to each instance based on its prediction di
 ---
 
 ## 📂 Project Structure
+
+```
+├── data/ # Datasets used in experiments
+├── exploratory_analyzes/ # Exploratory data analysis scripts and notebooks
+├── ih_based_function/ # Implementation of the IH-based relevance function
+├── resampling/ # Resampling strategies (RO, GN, etc.)
+├── results_data/ # Experimental results and outputs
+```
